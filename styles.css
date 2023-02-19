@@ -41,6 +41,24 @@ body {
     font-size: 16px;
 }
 
+hr {
+    margin-top: 35px;
+    border: 1px solid #2F3E53;
+}
+
+#flex_container {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding-top: 35px;
+}
+
+.password_container {
+    height: 39px;
+    width: 211px;
+    background-color: #273549;
+}
+
 #description {
     padding-top: 10px;
     color: white;
