@@ -23,6 +23,4 @@ function generate_password() {
     }
 }
 
-generate_password();
-
 console.log(password_containers);
